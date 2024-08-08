@@ -3,4 +3,4 @@ LAB-01:[MATRICES](https://github.com/karthikeyan0741/2203A51136_DAA/blob/main/DA
 
 LAB-02:[SORTINGS]("")
 
-LAB-03:[ WEEK ASSIGNMENTS 1]
+LAB-03:[ WEEK ASSIGNMENTS 1]("")
